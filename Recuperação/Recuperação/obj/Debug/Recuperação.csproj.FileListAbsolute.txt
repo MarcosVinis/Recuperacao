@@ -17,3 +17,5 @@ E:\C#\Recuperação\Recuperação\Recuperação\obj\Debug\Recuperação.calcReaj
 E:\C#\Recuperação\Recuperação\Recuperação\obj\Debug\Recuperação.Properties.Resources.resources
 E:\C#\Recuperação\Recuperação\Recuperação\obj\Debug\Recuperação.quantPaes.resources
 E:\C#\Recuperação\Recuperação\Recuperação\obj\Debug\Recuperação.csproj.GenerateResource.Cache
+E:\C#\Recuperação\Recuperação\Recuperação\obj\Debug\Recuperação.Quadrado.resources
+E:\C#\Recuperação\Recuperação\Recuperação\obj\Debug\Recuperação.Media.resources

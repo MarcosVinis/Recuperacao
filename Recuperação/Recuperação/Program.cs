@@ -16,7 +16,7 @@ namespace Recuperação
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new quantPaes());
+            Application.Run(new Media());
         }
     }
 }
