@@ -10,3 +10,10 @@ F:\C#\Recuperação\Recuperação\Recuperação\obj\Debug\Recuperação.pdb
 E:\C#\Recuperação\Recuperação\Recuperação\bin\Debug\Recuperação.exe.config
 E:\C#\Recuperação\Recuperação\Recuperação\obj\Debug\Recuperação.exe
 E:\C#\Recuperação\Recuperação\Recuperação\obj\Debug\Recuperação.pdb
+E:\C#\Recuperação\Recuperação\Recuperação\bin\Debug\Recuperação.exe
+E:\C#\Recuperação\Recuperação\Recuperação\bin\Debug\Recuperação.pdb
+E:\C#\Recuperação\Recuperação\Recuperação\obj\Debug\Recuperação.csprojResolveAssemblyReference.cache
+E:\C#\Recuperação\Recuperação\Recuperação\obj\Debug\Recuperação.calcReajuste.resources
+E:\C#\Recuperação\Recuperação\Recuperação\obj\Debug\Recuperação.Properties.Resources.resources
+E:\C#\Recuperação\Recuperação\Recuperação\obj\Debug\Recuperação.quantPaes.resources
+E:\C#\Recuperação\Recuperação\Recuperação\obj\Debug\Recuperação.csproj.GenerateResource.Cache
