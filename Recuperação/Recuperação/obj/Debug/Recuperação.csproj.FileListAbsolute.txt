@@ -1,0 +1,12 @@
+F:\C#\Recuperação\Recuperação\Recuperação\bin\Debug\Recuperação.exe.config
+F:\C#\Recuperação\Recuperação\Recuperação\bin\Debug\Recuperação.exe
+F:\C#\Recuperação\Recuperação\Recuperação\bin\Debug\Recuperação.pdb
+F:\C#\Recuperação\Recuperação\Recuperação\obj\Debug\Recuperação.csprojResolveAssemblyReference.cache
+F:\C#\Recuperação\Recuperação\Recuperação\obj\Debug\Recuperação.calcReajuste.resources
+F:\C#\Recuperação\Recuperação\Recuperação\obj\Debug\Recuperação.Properties.Resources.resources
+F:\C#\Recuperação\Recuperação\Recuperação\obj\Debug\Recuperação.csproj.GenerateResource.Cache
+F:\C#\Recuperação\Recuperação\Recuperação\obj\Debug\Recuperação.exe
+F:\C#\Recuperação\Recuperação\Recuperação\obj\Debug\Recuperação.pdb
+E:\C#\Recuperação\Recuperação\Recuperação\bin\Debug\Recuperação.exe.config
+E:\C#\Recuperação\Recuperação\Recuperação\obj\Debug\Recuperação.exe
+E:\C#\Recuperação\Recuperação\Recuperação\obj\Debug\Recuperação.pdb
