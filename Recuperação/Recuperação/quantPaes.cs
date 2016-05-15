@@ -21,6 +21,12 @@ namespace Recuperação
         {
             int quantPao = 0;
             int quantLeite = 0;
+            double valPao = 0.25;
+            double valLitroLeite = 2.85;
+
+            quantPao = Convert.ToInt16(txtPao.Text);
+            quantLeite = Convert.ToInt16(txtLeite.Text);
+
             
         }
     }
